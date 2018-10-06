@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Steps>
+  <Step>
+    <Pos>0a90b90c90d90e</Pos>
+    <Time>1978.5241</Time>
+  </Step>
+  <Step>
+    <Pos>45a90b90c90d90e</Pos>
+    <Time>1909.394</Time>
+  </Step>
+  <Step>
+    <Pos>92a90b90c90d90e</Pos>
+    <Time>2053.3243</Time>
+  </Step>
+  <Step>
+    <Pos>146a90b90c90d90e</Pos>
+    <Time>1772.6128</Time>
+  </Step>
+  <Step>
+    <Pos>179a90b90c90d90e</Pos>
+    <Time>1000</Time>
+  </Step>
+</Steps>
